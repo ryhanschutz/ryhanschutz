@@ -24,7 +24,7 @@ Projeto focado em **componentes sustentáveis** para automação, como **transfo
 ## 📬 Contato
 
 - **LinkedIn**: [Ryhan Schutz](https://www.linkedin.com/in/ryhanschutz/)
-- **E-mail**: ryhan.schutz@example.com
+- **E-mail**: ryhanschutz@gmail.com
 
 ---
 
