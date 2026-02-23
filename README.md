@@ -40,7 +40,7 @@ status:      🚬 at work
 
 ## ⚡ Sobre mim
 
-Bolsista do **SENAI CentroWEG** — aprendo e trabalho ao mesmo tempo,
+**SENAI CentroWEG** — aprendo e trabalho ao mesmo tempo,
 dentro do ecossistema WEG de automação e tecnologia industrial.
 
 Fora da escola, a automação é hobbie. Tenho em casa uma **bancada própria**
