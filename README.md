@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003087,100:00c853&height=200&section=header&text=Ryhan%20Schutz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CiberSystems%20%7C%20IoT%20%7C%20Industrial%20Automation&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:CC0000&height=200&section=header&text=Ryhan%20Schutz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CiberSystems%20%7C%20IoT%20%7C%20Industrial%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0046A0&center=true&vCenter=true&random=false&width=600&lines=Técnico+em+CiberSistemas+%40+SENAI+CentroWEG;IoT+%7C+MQTT+%7C+ESP32+%7C+Java+%7C+SCADA;Automação+Industrial+%7C+Jaraguá+do+Sul%2C+SC;🚬+at+work+—+sempre)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=650&lines=Técnico+em+CiberSistemas+%40+SENAI+CentroWEG;ESP32+%7C+MQTT+%7C+Java+%7C+Ladder;Mitsubishi+FX1N+%2B+FX3U+em+casa;Futuro+Engenheiro+Eletricista;🚬+at+work+—+sempre)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryhan%20Schutz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryhanschutz/)
-[![Website](https://img.shields.io/badge/Website-ryhanschutz.dev-003087?style=for-the-badge&logo=vercel&logoColor=white)](https://ryhanschutz.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-ryhanschutz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryhanschutz@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ryhanschutz?style=for-the-badge&logo=github&color=181717)](https://github.com/ryhanschutz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryhan%20Schutz-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryhanschutz/)
+[![Gmail](https://img.shields.io/badge/Gmail-ryhanschutz@gmail.com-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryhanschutz@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ryhanschutz?style=for-the-badge&logo=github&color=CC0000&logoColor=white)](https://github.com/ryhanschutz)
 
 </div>
 
@@ -26,24 +25,36 @@
 ## `whoami`
 
 ```yaml
-nome:     Ryhan Gabriel Schutz
-role:     Técnico em CiberSistemas (em formação)
-escola:   SENAI CentroWEG — Jaraguá do Sul, SC
-foco:     IoT Industrial · SCADA · Automação · Protocolos de Campo
-stack:    ESP32 · Java · React · MQTT · Modbus · IO-Link
-sonho:    Engenheiro eletricista especializado em automação
-status:   🚬 at work
+nome:        Ryhan Gabriel Schutz
+local:       Jaraguá do Sul, SC — Brasil
+formação:    Técnico em CiberSistemas · SENAI CentroWEG (bolsista WEG)
+objetivo:    Engenharia Elétrica · IFSC / UDESC / UFSC
+idiomas:     Português (nativo) · Inglês (intermediário) · Français (aprendendo)
+clps:        Mitsubishi FX1N · FX3U — GX Works 2 · Ladder
+stack:       ESP32 · C++ · Java · MQTT · React · TypeScript
+setup:       Bancada de automação em casa ⚡
+status:      🚬 at work
 ```
 
 ---
 
 ## ⚡ Sobre mim
 
-Estudante técnico em automação e conectividade pelo **SENAI CentroWEG**, imerso no ecossistema industrial da WEG — uma das maiores fabricantes de equipamentos elétricos do mundo. Trabalho com integração de sistemas embarcados, protocolos industriais e desenvolvimento de interfaces de supervisão.
+Bolsista do **SENAI CentroWEG** — aprendo e trabalho ao mesmo tempo,
+dentro do ecossistema WEG de automação e tecnologia industrial.
 
-Tenho familiaridade prática com o fluxo completo de um projeto IoT industrial: do sensor na ponta até o dashboard no supervisório, passando por firmware em C++, backends em Java e protocolos como MQTT, Modbus RTU/TCP e IO-Link.
+Fora da escola, a automação é hobbie. Tenho em casa uma **bancada própria**
+com CLPs Mitsubishi, contatora, disjuntores e botoeiras — onde pratico
+Ladder no tempo livre. Acompanho o setor de perto, tenho network com
+profissionais da área e já tive experiências práticas em campo
+em ambientes industriais reais.
 
-> *"A leveza vem da ausência, não da adição."*
+Certificado pela **Mitsubishi Electric** em CLPs, braço robótico e
+inversores de frequência. Canal de referência: **Industrialismo**.
+
+Objetivo direto: **Engenharia Elétrica** numa federal ou estadual
+catarinense, carreira sólida na WEG — e fluência em inglês e francês
+no caminho.
 
 ---
 
@@ -53,38 +64,43 @@ Tenho familiaridade prática com o fluxo completo de um projeto IoT industrial: 
 
 **Embarcado & Hardware**
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-7B2FBE?style=flat-square&logo=data:image/png;base64,&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-CC0000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-8B0000?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-CC0000?style=flat-square&logoColor=white)
 
-**Backend & Dados**
+**CLPs & Automação**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Mitsubishi](https://img.shields.io/badge/Mitsubishi_FX-CC0000?style=flat-square&logoColor=white)
+![Ladder](https://img.shields.io/badge/Ladder-000000?style=flat-square&logoColor=white)
+![GX Works](https://img.shields.io/badge/GX_Works_2-8B0000?style=flat-square&logoColor=white)
+![RS232](https://img.shields.io/badge/RS232-000000?style=flat-square&logoColor=white)
 
-**Frontend & Supervisório**
+**Backend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-CC0000?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-CC0000?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=flat-square&logo=html5&logoColor=white)
 
 **Protocolos Industriais**
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Modbus](https://img.shields.io/badge/Modbus-003087?style=flat-square&logoColor=white)
-![IO--Link](https://img.shields.io/badge/IO--Link-FF6600?style=flat-square&logoColor=white)
-![OPC--UA](https://img.shields.io/badge/OPC--UA-0078D4?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-CC0000?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat-square&logoColor=white)
+![IO-Link](https://img.shields.io/badge/IO--Link-8B0000?style=flat-square&logoColor=white)
 
-**DevOps & Ambiente**
+**DevOps**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Codespaces](https://img.shields.io/badge/Codespaces-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-CC0000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
@@ -94,42 +110,44 @@ Tenho familiaridade prática com o fluxo completo de um projeto IoT industrial: 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryhanschutz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0046A0&icon_color=00c853&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhanschutz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0046A0&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryhanschutz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=CC0000&icon_color=CC0000&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhanschutz&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=CC0000&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryhanschutz&theme=tokyonight&hide_border=true&background=0D1117&ring=0046A0&fire=00c853&currStreakLabel=0046A0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryhanschutz&theme=dark&hide_border=true&background=0D0D0D&ring=CC0000&fire=8B0000&currStreakLabel=CC0000&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
----
+## 🏠 Bancada em Casa
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![Prensa IoT](https://github-readme-stats.vercel.app/api/pin/?username=ryhanschutz&repo=Projeto_ESP32_MQTT_JAVA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0046A0&text_color=ffffff&icon_color=00c853)](https://github.com/ryhanschutz/Projeto_ESP32_MQTT_JAVA)
-[![SCADA System](https://github-readme-stats.vercel.app/api/pin/?username=ryhanschutz&repo=SCADA_SystembyMattSchutz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0046A0&text_color=ffffff&icon_color=00c853)](https://github.com/ryhanschutz/SCADA_SystembyMattSchutz)
-
-</div>
-
----
-
-## 🏭 Visão Industrial
+> O laboratório não fecha às 18h.
 
 ```
-Sensor (PT100 · IO-Link · 4-20mA)
-    ↓
-CLP (Siemens S7 · Schneider Modicon · WEG TPW)
-    ↓ Modbus TCP/IP · PROFINET
-Switch Industrial
-    ↓ MQTT · OPC-UA
-SCADA / IIoT Cloud
-    ↓
-Dashboard em tempo real → Manutenção Preditiva
+├── CLP Mitsubishi FX1N
+├── CLP Mitsubishi FX3U
+├── Programação via RS232 · GX Works 2 · Ladder
+├── Contatora industrial
+├── Disjuntores + Botoeiras
+└── LEDs de sinalização
+```
+
+**Certificações Mitsubishi Electric:**
+- ✅ CLP para Iniciantes
+- ✅ Braço Robótico
+- ✅ Inversores de Frequência
+
+---
+
+## 🎯 Roadmap
+
+```
+2026  →  Técnico em CiberSistemas · SENAI CentroWEG  (em andamento)
+2027  →  Engenharia Elétrica · IFSC / UDESC / UFSC
+????  →  Fluência em Inglês + Français
+????  →  Engenheiro Eletricista · WEG
 ```
 
 ---
@@ -138,7 +156,7 @@ Dashboard em tempo real → Manutenção Preditiva
 
 <div align="center">
 
-[![Ryhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryhanschutz&bg_color=0d1117&color=0046A0&line=00c853&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryhanschutz&bg_color=0d0d0d&color=CC0000&line=8B0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -146,7 +164,7 @@ Dashboard em tempo real → Manutenção Preditiva
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:003087&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,50:8B0000,100:000000&height=100&section=footer" width="100%"/>
 
 *Jaraguá do Sul, Santa Catarina — 2026*
 
