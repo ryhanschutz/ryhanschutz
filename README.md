@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="weg.png" width="300"/>
+
 ![Profile views](https://komarev.com/ghpvc/?username=ryhanschutz&color=F7A800&style=flat-square&label=visitas)
 
 </div>
@@ -14,13 +16,12 @@
 
 ```bash
 Ryhan Schutz
-Tecnico em Automacao e Conectividade — CentroWEG
-Florianopolis, SC
+Estudante Técnico em CiberSistemas para Automação — CentroWEG
+Jaraguá do Sul, SC
 ```
 
-Trabalho com automação industrial na prática — não só na teoria.  
-CLPs, elétrica, SCADA e sistemas embarcados.  
-Código é ferramenta. O chão de fábrica é o ambiente.
+Automação industrial, CLPs, elétrica e sistemas embarcados.  
+Estudante técnico com vivência prática no chão de fábrica.
 
 ---
 
@@ -60,9 +61,6 @@ Código é ferramenta. O chão de fábrica é o ambiente.
 ## GitHub
 
 <div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ryhanschutz&show_icons=true&theme=dark&hide_border=true&title_color=F7A800&icon_color=F7A800&bg_color=0d1117"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhanschutz&layout=compact&theme=dark&hide_border=true&title_color=F7A800&bg_color=0d1117"/>
 
 </div>
 
