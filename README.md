@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Ryhan+Schutz+%F0%9F%9A%AC;Industrial+Automation+%7C+CentroWEG;PLC+%7C+SCADA+%7C+Electrical;Siemens+S7+%7C+Mitsubishi+FX+%7C+WEG" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Ryhan+Schutz;Industrial+Automation+%7C+CentroWEG;PLC+%7C+SCADA+%7C+Electrical;Siemens+S7+%7C+Mitsubishi+FX+%7C+WEG" alt="Typing SVG" />
 
 <br/>
 
